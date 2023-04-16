@@ -1,6 +1,6 @@
 # Rozszerzona rzeczywistość (augmented reality) w edukacji
 
-Projekt realizowany dla Wydziału Nauk Geograficznych i Geologicznych Uniwersytetu Adama Mickiewicza w Poznaniu. 
+Projekt realizowany dla Wydziału Geografii Społeczno-Ekonomicznej i Gospodarki Przestrzennej uniwersytetu Adama Mickiewicza w Poznaniu. 
 
 ## Opis
 
@@ -15,7 +15,7 @@ doc_files/earth_marker.png
 następnie wejdź z urządzenia mobilnego spełniającego wymagania na stronę [demo](https://4kprojekt.home.pl/ar_demo/) wybierz scenę "ziemia" i zeskanuj wydrukowany marker
 
 
-https://4kprojekt.home.pl/ar_demo/doc_files/demo.mp4
+[video](https://4kprojekt.home.pl/ar_demo/doc_files/demo.mp4)
 
 ### Zależności
 
