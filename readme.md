@@ -14,6 +14,9 @@ doc_files/earth_marker.png
 ```
 następnie wejdź z urządzenia mobilnego spełniającego wymagania na stronę [demo](https://4kprojekt.home.pl/ar_demo/) wybierz scenę "ziemia" i zeskanuj wydrukowany marker
 
+
+https://4kprojekt.home.pl/ar_demo/doc_files/demo.mp4
+
 ### Zależności
 
 aplikacja wykorzystuje biblioteki:
