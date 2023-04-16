@@ -20,13 +20,17 @@ aplikacja wykorzystuje biblioteki:
 * https://github.com/hiukim/mind-ar-js
 * https://aframe.io/
 przygotwanie markerów:
-* https://hiukim.github.io/mind-ar-js-doc/tools/compile
+
 * https://getbootstrap.com/
 
 wykorzystane technologie
 * php
 * html
 * javascript
+
+### Tworzenie markerów
+
+* https://hiukim.github.io/mind-ar-js-doc/tools/compile
 
 ### Instalacja
 

@@ -9,7 +9,7 @@
     <div class="row">
       <div class="col-12">
         <h1>Sceny zdefiniowane w <a href="scenes.json">scenes.json</a></h1>
-    <table>
+    <table class="table table-striped">
     
     <tr>
         <th>Nazwa sceny</th>
