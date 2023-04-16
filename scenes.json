@@ -1,0 +1,49 @@
+[
+    {
+        "name": "kartka",
+        "marker": "markers\\kartka.mind",
+        "images": [
+            {
+                "id":"imageRes",
+                "src": "img\\imageRes.png",
+                "position": "0 0 0",
+                "height": "0.5",
+                "width": "1",
+                "rotation": "0 0 0"
+            }
+        ],       
+        "gltf_models": [
+            { "id":"DOR15",
+                "src": "gltf\\DOR15.gltf",
+                "position": "0 0 0",
+                "scale": "0.005 0.005 0.005",
+                "rotation": "0 0 0",
+                "animation": "property: rotation; to: 0 0 360 ; dur: 1000; easing: easeInOutQuad; loop: true; dir: alternate"
+            }
+        ]
+    },
+    {
+        "name": "ziemia",
+        "marker": "markers\\earth_marker.mind",
+        "images": [
+            {
+                "id":"earth_overlay",
+                "src": "img\\earth_overlay.png",
+                "position": "0.01 0.01 0",
+                "height": "1.4",
+                "width": "1.4",
+                "rotation": "0 0 0",
+                "animation": "property: rotation; to: 0 0 360 ; dur: 3000; easing: easeInOutQuad; loop: true; dir: alternate"
+            }
+        ],
+        "gltf_models": [
+            {   "id":"DOR15",
+                "src": "gltf\\DOR15.gltf",
+                "position": "0 0 0",
+                "scale": "1 1 1",
+                "rotation": "0 0 0",
+                "animation": "property: rotation; to: 0 0 360 ; dur: 1000; easing: easeInOutQuad; loop: true; dir: alternate"
+            }
+        ]
+    }
+]
