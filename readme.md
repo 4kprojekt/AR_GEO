@@ -8,8 +8,11 @@ Aplikacja umożliwia wyświetlanie na urządzeniu mobilnym (przeglądarka chrome
 
 ## Działanie
 
-Sprawdź demo, wydrukuj marker dostępny....
-następnie wejdź z urządzenia mobilnego spełniającego wymagania na stronę: https://augmented-reality-education.herokuapp.com/ i zeskanuj wydrukowany marker
+Sprawdź demo, wydrukuj marker dostępny 
+```
+doc_files/earth_marker.png
+```
+następnie wejdź z urządzenia mobilnego spełniającego wymagania na stronę [demo](https://4kprojekt.home.pl/ar_demo/) wybierz scenę "ziemia" i zeskanuj wydrukowany marker
 
 ### Zależności
 
@@ -18,6 +21,7 @@ aplikacja wykorzystuje biblioteki:
 * https://aframe.io/
 przygotwanie markerów:
 * https://hiukim.github.io/mind-ar-js-doc/tools/compile
+* https://getbootstrap.com/
 
 wykorzystane technologie
 * php
@@ -28,7 +32,7 @@ wykorzystane technologie
 
 * sklonuj repozytorium na serwer umożliwający hostowanie stron PHP
 ```
-git clone ....
+git clone https://github.com/4kprojekt/AR_GEO.git
 ```
 ### Uruchomienie
 
@@ -36,6 +40,5 @@ po umieszczeniu plików na serwerze, wejdź na stronę główną aplikacji i zes
 
 ## Dodawanie nowych markerów
 
-wybierz obrazek/zdjęcie, które ma być markerem, następnie wejdź na stronę: https://hiukim.github.io/mind-ar-js-doc/tools/compile i wygeneruj marker. W aplikacji wybierz 
-
+...
 
