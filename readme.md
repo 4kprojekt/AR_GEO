@@ -22,8 +22,6 @@ następnie wejdź z urządzenia mobilnego spełniającego wymagania na stronę [
 aplikacja wykorzystuje biblioteki:
 * https://github.com/hiukim/mind-ar-js
 * https://aframe.io/
-przygotwanie markerów:
-
 * https://getbootstrap.com/
 
 wykorzystane technologie
@@ -33,7 +31,9 @@ wykorzystane technologie
 
 ### Tworzenie markerów
 
-* https://hiukim.github.io/mind-ar-js-doc/tools/compile
+marker można wygenerować na tej [stronie](https://hiukim.github.io/mind-ar-js-doc/tools/compile)
+
+przygotuj obraze, wgraj go na stronę i pobierz wygenerowany marker (plik .mind)
 
 ### Instalacja
 

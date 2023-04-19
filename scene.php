@@ -45,7 +45,7 @@ foreach ($images as $image) {
 }
 // lista modeli zapisanych w zmiennej $gltf_models
 foreach ($gltf_models as $gltf_model) {
-    echo '<img id="'.$gltf_model['id'].'" src="'.$gltf_model['src'].'">';
+    echo '<a-asset-item id="'.$gltf_model['id'].'" src="'.$gltf_model['src'].'">';
 }
 ?>
 
