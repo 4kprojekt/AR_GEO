@@ -3,15 +3,17 @@
 <head>
     <!-- when using the mode "code", it's important to specify charset utf-8 -->
     <meta charset="utf-8">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsoneditor/9.10.1/jsoneditor.css" integrity="sha512-/JghmMAi5bleEgj1BT7h7Jm2+o4I4AbJYRVaY3eGGfdyTzV+yW3n0IedWH4ysbws5zpNK1beCqVJh0MSZxvNaA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsoneditor/9.10.1/jsoneditor.min.js" integrity="sha512-xxDp3Ld9M9MRpJknGWlnJNF71c7fSDVVYsZfkK5yIKeadYaeG7Fni2gQqOTZ93SMF7RsnxiBflh75LirV8dnvg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsoneditor/9.10.1/jsoneditor.css" integrity="sha512-/JghmMAi5bleEgj1BT7h7Jm2+o4I4AbJYRVaY3eGGfdyTzV+yW3n0IedWH4ysbws5zpNK1beCqVJh0MSZxvNaA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsoneditor/9.10.1/jsoneditor.min.js" integrity="sha512-xxDp3Ld9M9MRpJknGWlnJNF71c7fSDVVYsZfkK5yIKeadYaeG7Fni2gQqOTZ93SMF7RsnxiBflh75LirV8dnvg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  
 </head>
 <body>
+<div id="jsoneditor" style="height: 800px;"></div>
 <div class="container">
     <div clas="row"> 
-<div id="jsoneditor" style=" height: 800px;"></div>
+
 </div>
 <form method="post">
    <input type="hidden" id="json" name="json">
