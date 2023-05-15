@@ -1,9 +1,9 @@
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <script src="js/aframe.min.js"></script>
+    <script src="lib/aframe/aframe.min.js"></script>
    
-    <script src="js/mindar-image-aframe.prod.js"></script>
+    <script src="lib/aframe/mindar-image-aframe.prod.js"></script>
     
   </head>
   <body>
